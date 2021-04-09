@@ -1,0 +1,5 @@
+version: 0.0
+ols: linux
+files: 
+  - source: /
+    destination: /var/www/html/
